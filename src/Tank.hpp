@@ -7,7 +7,10 @@ namespace tank_base
 {
     struct Tank
     {
+        // Sample time
         base::Time time;
+
+        // Percentage 0-1 of the tank
         double currentLevel;
     };
 
