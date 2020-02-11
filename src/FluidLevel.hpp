@@ -5,7 +5,7 @@
 
 namespace tank_base
 {
-    struct Tank
+    struct FluidLevel
     {
         // Sample time
         base::Time time;
